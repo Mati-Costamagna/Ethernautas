@@ -67,3 +67,22 @@ _Facundo Oliva Cuneo_
     - d
     Mediriamos la señal en los instantes temporales correspondientes a flancos descendentes del clock, ya que allí la señal permanece constante.
 
+- 3
+    - a
+    El gráfico corresponde a una modulación PSK, que consiste principalmente en transmitir datos cambiando la fase de la onda portadora.
+
+    - b
+    [\[Modulación de Señal Digital\]](https://drive.google.com/file/d/18Vvu5ebEGoiLe8aUYSh7AZtYAY6-sgY8/view?usp=drive_link)
+
+    - c
+    Si hablamos de modulaciones de señales analógicas para datos digitales, otras técnicas similares, son la FSK, ASK, QAM y todas sus variantes dependiendo de la cantidad de símbolos distintos que se quieran transmitir [1].
+
+    - d
+    El BER es un parámetro que indica que tan bueno es el desempeño de un sistema de comunicación determinado.
+    Fundamentalmente indica la probabilidad de error por bit transmitido.
+    La técnica de modulación con mejores prestaciones es la PSK, la comparación entre las técnicas y sus eficiencias se encuentra desarrollada en el libro [1].
+
+
+## Referencias
+
+[1] Comunicaciones y Redes de Computadoras, Stallings, 7ma Edición, PEARSON EDUCACIÓN, S. A., Madrid, 2004
