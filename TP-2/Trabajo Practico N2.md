@@ -46,7 +46,7 @@ _Facundo Oliva Cuneo_
         -   Genera distorsión y pérdida de información, ya que modifica la amplitud, fase o frecuencia de la onda.
         -   Su magnitud se mide en relación a la señal útil: La importancia del ruido no radica en su valor absoluto, sino en su relación con la potencia de la señal original. Esta relación se conoce como SNR (Signal-to-Noise Ratio).
 
-    - b)
+    - b) El ruido afecta de forma distinta según la banda de transmisión. En las bandas altas (como Wi-Fi en 5 GHz o microondas) la señal pierde más energía con la distancia y cualquier interferencia la degrada rápido, por lo que el ruido genera más errores y menor alcance. En las bandas bajas (como 2,4 GHz o radio VHF) el efecto del ruido es menor: la señal viaja más lejos y atraviesa mejor los obstáculos, aunque con menos capacidad de datos. En cambio, la fibra óptica no se ve afectada por este tipo de ruido porque transmite con luz en lugar de impulsos eléctricos.
 
     - c)  SNR es la relación entre la potencia de la señal y la potencia del ruido. Generalmente, se expresa en decibelios (dB) para manejar rangos de valores muy amplios. Un SNR alto indica que la potencia de la señal es significativamente mayor que la del ruido, lo que se traduce en una mejor calidad de transmisión.
     La fórmula para calcular el SNR es la siguiente:
