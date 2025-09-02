@@ -56,7 +56,7 @@ _Facundo Oliva Cuneo_
         El BER (Bit Error Rate), o tasa de error de bits, es la proporción de bits incorrectamente recibidos en relación con el total de bits transmitidos. La relación entre el BER y el SNR es inversa: a mayor SNR, menor es el BER.
 
 - 3
-    - a) Ethernet es una tecnología de red de área local (LAN) que utiliza comunicaciones por cable (par trenzado, fibra óptica, cables coaxiales) y opera en las capas de enlace de datos y física del modelo OSI. Se define por los estándares IEEE 802.2 y 802.3.  
+    - a) Ethernet es una tecnología de red de área local (LAN) que utiliza comunicaciones por cable (par trenzado, fibra óptica, cables coaxiales) y opera en las capas de enlace de datos y física del modelo OSI. Se define por los estándares IEEE 802.2 y 802.3.\
     Este se caracteriza por su evolución de un sistema de medio compartido con topología de bus a las redes modernas que usan switches para una comunicación dúplex completo, eliminando la necesidad de CSMA/CD para evitar colisiones. Una de sus principales características es su capacidad para adaptarse a una amplia gama de velocidades de transmisión, que van desde 10 Mbps hasta 100 Gbps.\
     Por otro lado, la estructura de una trama de datos en Ethernet está definida por el estándar IEEE 802.3. Esta encapsulación incluye las direcciones MAC de origen y de destino para garantizar que la trama se entregue correctamente dentro de la misma red de área local (LAN). Como se muestra en la imagen, estos campos tienen un tamaño de 6 bytes cada uno. Para asegurar la integridad de los datos, la trama también utiliza una Secuencia de Verificación de Trama (FCS), que tiene un tamaño de 4 bytes y se encarga de la detección de errores durante la transmisión. La imagen también ilustra otros campos importantes como el Preámbulo y SFD (8 bytes), el campo Tipo/Longitud (2 bytes) y el campo de Datos (46 a 1500 bytes), mostrando cómo todos ellos se combinan para formar una trama completa.\
     [\[Campo de trama en Internet\]](https://drive.google.com/file/d/1mj9AcTsTjlMEDx17-gKxQxP3QjoHkV0L/view?usp=sharing)\
@@ -74,7 +74,7 @@ _Facundo Oliva Cuneo_
 
         - 100,000 Mbps (100 Gigabit Ethernet)
 
-    - b)
+    - b) 
 
     - c)
 
