@@ -35,7 +35,7 @@ _Facundo Oliva Cuneo_
     - a) La figura representa el efecto Doppler, el cual consta de un cambio en la frecuencia de una señal producido por el movimiento relativo de su emisor con respescto a su receptor. Cuando se acercan, la frecuencia aumenta, y cuando se alejan, la frecuencia disminuye.
     El movimiento relativo "aprieta" las ondas al acercarse la fuente, acortando su longitud y aumentando la frecuencia; al alejarse, las "estira", alargando la longitud y disminuyendo la frecuencia.
 
-    - b)
+    - b) El efecto Doppler afecta mas a las Bandas altas (30 MHz hasta 300 GHz) ya que el corrimiento es proporcional a la frecuencia. Mientras que las mas resilientes son las Bandas Bajas (30 kHz a 30 MHz) el corrimiento Doppler es despreciable.
 
     - c) La razón se fundamenta en que el celular puede generar interferencias con el sistema de comunicación o navegación del avión
 
