@@ -58,8 +58,9 @@ _Facundo Oliva Cuneo_
 - 3
     - a) Ethernet es una tecnología de red de área local (LAN) que utiliza comunicaciones por cable (par trenzado, fibra óptica, cables coaxiales) y opera en las capas de enlace de datos y física del modelo OSI. Se define por los estándares IEEE 802.2 y 802.3.  
     Este se caracteriza por su evolución de un sistema de medio compartido con topología de bus a las redes modernas que usan switches para una comunicación dúplex completo, eliminando la necesidad de CSMA/CD para evitar colisiones. Una de sus principales características es su capacidad para adaptarse a una amplia gama de velocidades de transmisión, que van desde 10 Mbps hasta 100 Gbps.\
-    Por otro lado, la estructura de una trama de datos en Ethernet está definida por el estándar IEEE 802.3. Esta encapsulación incluye las direcciones MAC de origen y de destino para garantizar que la trama se entregue correctamente dentro de la misma red de área local (LAN). Como se muestra en la imagen, estos campos tienen un tamaño de 6 bytes cada uno. Para asegurar la integridad de los datos, la trama también utiliza una Secuencia de Verificación de Trama (FCS), que tiene un tamaño de 4 bytes y se encarga de la detección de errores durante la transmisión. La imagen también ilustra otros campos importantes como el Preámbulo y SFD (8 bytes), el campo Tipo/Longitud (2 bytes) y el campo de Datos (46 a 1500 bytes), mostrando cómo todos ellos se combinan para formar una trama completa.\
-    [\[Campo de trama en Internet\]](https://drive.google.com/file/d/1mj9AcTsTjlMEDx17-gKxQxP3QjoHkV0L/view?usp=sharing)\
+    Por otro lado, la estructura de una trama de datos en Ethernet está definida por el estándar IEEE 802.3. Esta encapsulación incluye las direcciones MAC de origen y de destino para garantizar que la trama se entregue correctamente dentro de la misma red de área local (LAN). Como se muestra en la imagen, estos campos tienen un tamaño de 6 bytes cada uno. Para asegurar la integridad de los datos, la trama también utiliza una Secuencia de Verificación de Trama (FCS), que tiene un tamaño de 4 bytes y se encarga de la detección de errores durante la transmisión. La imagen también ilustra otros campos importantes como el Preámbulo y SFD (8 bytes), el campo Tipo/Longitud (2 bytes) y el campo de Datos (46 a 1500 bytes), mostrando cómo todos ellos se combinan para formar una trama completa.
+    <p style="text-align:center"><img src='archivos/tramas.png' alt='ip' ancho="50" alto="100">
+  
     Las diferencias de velocidad entre las tecnologías Ethernet se basan en los siguientes anchos de banda soportados:
 
         - 10 Mbps (Ethernet original)
@@ -86,11 +87,23 @@ _Facundo Oliva Cuneo_
 
         - Cable cruzado (crossover): Los pares de hilos de transmisión y recepción están cruzados en uno de los extremos. Se usa para conectar dispositivos del mismo tipo (por ejemplo, una computadora a otra computadora o un switch a otro switch) sin necesidad de un dispositivo intermedio.
 
-    - c)
+    - c) Paquete recibido:
+        - 0000   18 c0 4d 95 0d 34 ec be dd af 02 c4 08 00 45 00
+0010   00 3c 9c 19 00 00 40 01 5d 33 c0 a8 00 01 c0 a8
+0020   00 23 00 00 55 4f 00 01 00 0c 61 62 63 64 65 66
+0030   67 68 69 6a 6b 6c 6d 6e 6f 70 71 72 73 74 75 76
+0040   77 61 62 63 64 65 66 67 68 69
 
-    - d)
+    - d)<p style="text-align:center"><img src='archivos/MACVENDEDOR.png' alt='ip' ancho="50" alto="100">
 
-    - e)
+    - e) Paquete recibido:
+        - 0000   18 c0 4d 95 0d 34 ec be dd af 02 c4 08 00 45 00
+0010   00 3c bd 22 00 00 3b 01 9b b9 b5 6e b0 ab c0 a8
+0020   00 23 00 00 55 45 00 01 00 16 61 62 63 64 65 66
+0030   67 68 69 6a 6b 6c 6d 6e 6f 70 71 72 73 74 75 76
+0040   77 61 62 63 64 65 66 67 68 69
+        - MAC addres:<p style="text-align:center"><img src='archivos/MACaddres.png' alt='ip' ancho="50" alto="100">
+        
 
 - 4
 
