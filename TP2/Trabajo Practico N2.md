@@ -48,27 +48,12 @@ _Facundo Oliva Cuneo_
 
     - b)
 
-    - c)  SNR es la relación entre la potencia de la señal y la potencia del ruido. Generalmente, se expresa en decibelios (dB) para manejar rangos de valores muy amplios. Un SNR alto indica que la potencia de la señal es significativamente mayor que la del ruido, lo que se traduce en una mejor calidad de transmisión. \
+    - c)  SNR es la relación entre la potencia de la señal y la potencia del ruido. Generalmente, se expresa en decibelios (dB) para manejar rangos de valores muy amplios. Un SNR alto indica que la potencia de la señal es significativamente mayor que la del ruido, lo que se traduce en una mejor calidad de transmisión.
     La fórmula para calcular el SNR es la siguiente:
 
         $$SNR = \frac{P_{señal}}{P_{ruido}} $$
     
         El BER (Bit Error Rate), o tasa de error de bits, es la proporción de bits incorrectamente recibidos en relación con el total de bits transmitidos. La relación entre el BER y el SNR es inversa: a mayor SNR, menor es el BER.
-
-    - d)
-
-    - e)
-
-    - f)
-
-    - g)
-
-    - h)
-
-    - i)
-        - i
-        - ii
-        - iii
 
 - 3
     - a) Ethernet es una tecnología de red de área local (LAN) que utiliza comunicaciones por cable (par trenzado, fibra óptica, cables coaxiales) y opera en las capas de enlace de datos y física del modelo OSI. Se define por los estándares IEEE 802.2 y 802.3.  
@@ -79,15 +64,15 @@ _Facundo Oliva Cuneo_
 
         - 10 Mbps (Ethernet original)
 
-        -   100 Mbps (Fast Ethernet)
+        - 100 Mbps (Fast Ethernet)
 
-        -   1000 Mbps (Gigabit Ethernet)
+        - 1000 Mbps (Gigabit Ethernet)
 
-        -   10,000 Mbps (10 Gigabit Ethernet)
+        - 10,000 Mbps (10 Gigabit Ethernet)
 
-        -   40,000 Mbps (40 Gigabit Ethernet)
+        - 40,000 Mbps (40 Gigabit Ethernet)
 
-        -   100,000 Mbps (100 Gigabit Ethernet)
+        - 100,000 Mbps (100 Gigabit Ethernet)
 
     - b)
 
