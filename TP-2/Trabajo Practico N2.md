@@ -74,7 +74,17 @@ _Facundo Oliva Cuneo_
 
         - 100,000 Mbps (100 Gigabit Ethernet)
 
-    - b)
+    - b) El cableado de par trenzado no blindado (UTP) es el medio de red más común. El cableado UTP, que se termina con conectores RJ-45, se utiliza para interconectar hosts de red con dispositivos intermediarios de red, como switches y routers. Los cables UTP no utilizan blindaje para contrarrestar los efectos de la EMI y la RFI. En cambio, los diseñadores de cable han descubierto otras formas de limitar el efecto negativo del crosstalk:
+
+        - Anulación - Los diseñadores ahora emparejan los hilos en un circuito. Cuando dos hilos en un circuito eléctrico están cerca, los campos magnéticos son exactamente opuestos entre sí. Por lo tanto, los dos campos magnéticos se anulan y también anulan cualquier señal de EMI y RFI externa.
+        - Variando el número de vueltas por par de hilos - Para mejorar aún más el efecto de anulación de los pares de hilos del circuito, los diseñadores cambian el número de vueltas de cada par de hilos en un cable. Los cables UTP deben seguir especificaciones precisas que rigen cuántas vueltas o trenzas se permiten por metro (3,28 ft) de cable. Observe en la figura que el par naranja y naranja/blanco está menos trenzado que el par azul y azul/blanco. Cada par coloreado se trenza una cantidad de veces distinta.
+        - Los cables UTP dependen exclusivamente del efecto de anulación producido por los pares de hilos trenzados para limitar la degradación de la señal y proporcionar un autoblindaje eficaz de los pares de hilos en los medios de red.
+        
+        La diferencia radica en la disposición de los hilos en los conectores RJ45 en cada extremo:
+
+        - Cable derecho (straight-through): Los pines en ambos extremos del cable están en el mismo orden. Se usa para conectar dispositivos de diferente tipo (por ejemplo, una computadora a un switch).
+
+        - Cable cruzado (crossover): Los pares de hilos de transmisión y recepción están cruzados en uno de los extremos. Se usa para conectar dispositivos del mismo tipo (por ejemplo, una computadora a otra computadora o un switch a otro switch) sin necesidad de un dispositivo intermedio.
 
     - c)
 
