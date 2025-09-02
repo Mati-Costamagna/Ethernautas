@@ -108,30 +108,32 @@ _Facundo Oliva Cuneo_
 - 4
 
 A partir de las pruebas realizadas con Wireshark y el análisis de paquetes en la red, se pueden extraer las siguientes conclusiones:
-
-    - Privacidad en la red
+- Privacidad en la red
 
     Cada dispositivo conectado a una red deja rastros identificables en el tráfico que genera. La dirección IP identifica la ubicación lógica en la red, mientras que la dirección MAC actúa como identificador único del hardware de red.
     Esto significa que, aunque cambiemos de IP (dinámica o manualmente), la MAC sigue siendo la misma y permite reconocer al dispositivo en el nivel de enlace de datos. Por lo tanto, la privacidad en la red está limitada: un administrador o cualquier software de monitoreo como Wireshark puede identificar qué dispositivo envió o recibió un paquete.
 
-    - Trazabilidad de una dirección MAC
+- Trazabilidad de una dirección MAC
 
     Las MAC no solo permiten diferenciar dispositivos dentro de una red local, sino que también contienen información sobre el fabricante de la tarjeta de red en sus primeros 3 octetos (OUI – Organizationally Unique Identifier). Gracias a esto, es posible saber la marca del dispositivo, lo que aumenta la trazabilidad y reduce el anonimato en entornos de red cerrados.
     En consecuencia, aunque una dirección MAC no se comparte directamente en internet (solo en la red local), dentro de una LAN puede servir como un dato sensible de identificación.
 
-    - Comparación con el IMEI
+- Comparación con el IMEI
 
     El IMEI (International Mobile Equipment Identity) es un identificador único de los dispositivos móviles (celulares, tablets con SIM, etc.). Al igual que la MAC, el IMEI está asociado al hardware y permite identificar de manera global al dispositivo en redes móviles. Ambos son números únicos asignados por el fabricante y difíciles de modificar, lo que asegura la trazabilidad del equipo.
     Diferencia clave: la MAC se utiliza en redes locales (LAN/WiFi), mientras que el IMEI se emplea en redes móviles (2G/3G/4G/5G).
 
-    - ¿Una VPN oculta la dirección MAC?
+- ¿Una VPN oculta la dirección MAC?
 
     Una VPN (Virtual Private Network) oculta la dirección IP pública del usuario, ya que enmascara el tráfico enviándolo a través de un servidor intermediario. Sin embargo, la dirección MAC no se oculta con una VPN, porque esta solo es visible dentro de la red local.
     Por lo tanto, la VPN mejora la privacidad en el nivel de red (IP), pero no en el nivel de enlace de datos (MAC).
 
-    - Conclusión general
+- Conclusión general
 
     El análisis realizado muestra que tanto la dirección MAC como el IMEI son identificadores únicos que comprometen la privacidad al permitir rastrear dispositivos de manera persistente. Herramientas como Wireshark facilitan evidenciar esta trazabilidad. Aunque las VPNs ayudan a ocultar la IP en internet, la dirección MAC continúa siendo visible dentro de la red local, por lo que la privacidad nunca es absoluta.
+
+
+    
 
 
 
