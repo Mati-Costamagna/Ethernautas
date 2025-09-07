@@ -1,0 +1,6 @@
+- Probablementa falta del "Repaso"
+- Inclusion de capturas de pantalla del Packet Tracer
+- Revisar 1 g
+- Desarrollar mas la 2
+- Resumen del punto 3
+- Explicar las modulaciones del 3 C

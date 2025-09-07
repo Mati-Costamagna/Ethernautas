@@ -35,89 +35,51 @@ En este trabajo práctico se revisan conceptos básicos de ondas electromagnéti
 
 - 1
 
-    - b 
-
-    Para obtener el valor de la frecuencia, utilizamos la fórmula que relaciona la velocidad a la que viaja una onda con la longitud de dicha onda.
+    - b) Para obtener el valor de la frecuencia, utilizamos la fórmula que relaciona la velocidad a la que viaja una onda con la longitud de dicha onda.
     La longitud de onda $\lambda$ es la distancia que recorre la onda hasta completar un ciclo, lo que en la imagen se indica como 60 [mm] (o $60e^{-3}$ [m]).
 
     $f [Hz] = \frac{c}{\lambda} = \frac{3e^8 [m/s]}{60e^{-3} [m]} = 5e^9 [Hz] = 5 [GHz]$
 
-    - c
+    - c) La onda del punto _a_, tiene una frecuencia de 5 [GHz], por lo que la banda correspondiente que incluye esta frecuencia es la banda Banda de Frecuencia Super Alta (Super High Frequency o SHF), que abarca frecuencias entre 3 [GHz] y 30 [GHz] [1].
 
-    La onda del punto _a_, tiene una frecuencia de 5 [GHz], por lo que la banda correspondiente que incluye esta frecuencia es la banda Banda de Frecuencia Super Alta (Super High Frequency o SHF), que abarca frecuencias entre 3 [GHz] y 30 [GHz] [1].
+    - d) Dispositivos que usan ondas en esta banda de frecuencias, son los aquellos que trabajan con redes WLAN, distintas comunicaciones satelitales, Internet, etc., como por ejemplo, los routers inalámbricos.
 
-    - d
+    - e) La línea de trazos representa la disminución de la intensidad de la onda conforme se propaga en el medio. Esto tiene sentido ya que la intensidad es una propiedad de la onda que representa la cantidad de energía que esta transporta por unidad de tiempo y área, según la siguiente relación: $I [W/m^2]= \frac{Energía \cdot Tiempo}{Área} = \frac {Potencia}{Área}$. Por lo tanto, a medida que aumenta la distancia que recorrió la onda, la intensidad cae.
 
-    Dispositivos que usan ondas en esta banda de frecuencias, son los aquellos que trabajan con redes WLAN, distintas comunicaciones satelitales, Internet, etc., como por ejemplo, los routers inalámbricos.
+    - f) En el ejemplo del router inalámbrico, el fenómeno se puede apreciar claramente, ya que la intensidad de la señal se ve afectada cuando hay una mayor distancia y/o la señal debe atravesar paredes para llegar desde el router inalámbrico hasta el dispositivo final.
 
-    - e
-
-    La línea de trazos representa la disminución de la intensidad de la onda conforme se propaga en el medio. Esto tiene sentido ya que la intensidad es una propiedad de la onda que representa la cantidad de energía que esta transporta por unidad de tiempo y área, según la siguiente relación: $I [W/m^2]= \frac{Energía \cdot Tiempo}{Área} = \frac {Potencia}{Área}$. Por lo tanto, a medida que aumenta la distancia que recorrió la onda, la intensidad cae.
-
-    - f
-
-    En el ejemplo del router inalámbrico, el fenómeno se puede apreciar claramente, ya que la intensidad de la señal se ve afectada cuando hay una mayor distancia y/o la señal debe atravesar paredes para llegar desde el router inalámbrico hasta el dispositivo final.
-
-    - g 
-
-        - i
-
-        Este fenómeno, solo afecta a la transmisión de telefonía celular, ya que esta se realiza por medio de ondas electromagnéticas. Se puede ver reflejado cuando una persona se encuentra en areás rurales, o edificios y sótanos, en donde la señal se atenúa debido a las largas distancias y gran cantidad de obstáculos que debe atravesar.
-        - ii
-
-        Por otro lado, las transmisiones por cable coaxial se realizan por medio de impulsos eléctricos por que lo que la pérdida de intensidad se da a causa de otros fenómenos.
-        - iii
-
-        En el caso la fibra óptica, la transmisión se basa en el envío y deteccón de impulsos de luz y al ser la luz una onda electromagnética, también se ve afectada por el fenómeno de pérdida de intensidad.
+    - g) 
+        - i) Este fenómeno, solo afecta a la transmisión de telefonía celular, ya que esta se realiza por medio de ondas electromagnéticas. Se puede ver reflejado cuando una persona se encuentra en areás rurales, o edificios y sótanos, en donde la señal se atenúa debido a las largas distancias y gran cantidad de obstáculos que debe atravesar.
+        - ii) Por otro lado, las transmisiones por cable coaxial se realizan por medio de impulsos eléctricos por que lo que la pérdida de intensidad se da a causa de otros fenómenos.
+        - iii) En el caso la fibra óptica, la transmisión se basa en el envío y deteccón de impulsos de luz y al ser la luz una onda electromagnética, también se ve afectada por el fenómeno de pérdida de intensidad.
 
 - 2
 
-    - a 
+    - a) La representación muestra un esquema de una transmisión seria síncrona.
 
-    La representación muestra un esquema de una transmisión seria síncrona.
+    - b) No, el paradigma que permite transmitir datos a mayor velocidad es la transmisión paralela.
 
-    - b
+    - c) La letra a transimitir sería la _e_ y su señal tendría la forma del siguiente diagrama:
+    <p style="text-align:center"><img src='Imagenes/Diagrama 2-c.png' alt='ip' ancho="50" alto="100">
 
-    No, el paradigma que permite transmitir datos a mayor velocidad es la transmisión paralela.
-
-    - c
-
-    La letra a transimitir sería la _e_ y su señal tendría la forma del siguiente diagrama:
-    [\[Diagrama\]](https://drive.google.com/file/d/1ShVEO-wTh1o_AbqBXo0NTqEY3Yr3nFe3/view?usp=drive_link)
-
-    - d
-
-    Mediriamos la señal en los instantes temporales correspondientes a flancos descendentes del clock, ya que allí la señal permanece constante.
+    - d) Mediriamos la señal en los instantes temporales correspondientes a flancos descendentes del clock, ya que allí la señal permanece constante.
 
 - 3
 
-    - a
+    - a) El gráfico corresponde a una modulación PSK, que consiste principalmente en transmitir datos cambiando la fase de la onda portadora.
 
-    El gráfico corresponde a una modulación PSK, que consiste principalmente en transmitir datos cambiando la fase de la onda portadora.
+    - b)  <p style="text-align:center"><img src='Imagenes/Diagrama 3-b.jpg' alt='ip' ancho="50" alto="100">
 
-    - b
+    - c) Si hablamos de modulaciones de señales analógicas para datos digitales, otras técnicas similares, son la FSK, ASK, QAM y todas sus variantes dependiendo de la cantidad de símbolos distintos que se quieran transmitir [2].
 
-    [\[Modulación de Señal Digital\]](https://drive.google.com/file/d/18Vvu5ebEGoiLe8aUYSh7AZtYAY6-sgY8/view?usp=drive_link)
-
-    - c
-
-    Si hablamos de modulaciones de señales analógicas para datos digitales, otras técnicas similares, son la FSK, ASK, QAM y todas sus variantes dependiendo de la cantidad de símbolos distintos que se quieran transmitir [2].
-
-    - d
-
-    El BER es un parámetro que indica que tan bueno es el desempeño de un sistema de comunicación determinado.
-    Fundamentalmente indica la probabilidad de error por bit transmitido.
+    - d) El BER es un parámetro que indica que tan bueno es el desempeño de un sistema de comunicación determinado. Fundamentalmente indica la probabilidad de error por bit transmitido.
     La técnica de modulación con mejores prestaciones es la PSK, la comparación entre las técnicas y sus eficiencias se encuentra desarrollada en el libro [2].
 
 - 4
 
-    - a
+    - a) La frecuencia a la que opera el router es 2.4 [GHz], la cual está incluida en la banda de Frecuencias Ultra Altas (Ultra High Frequency o UHF) que abarca desde los 300 [MHz] hasta los 3 [GHz]
 
-    La frecuencia a la que opera el router es 2.4 [GHz], la cual está incluida en la banda de Frecuencias Ultra Altas (Ultra High Frequency o UHF) que abarca desde los 300 [MHz] hasta los 3 [GHz]
-
-    - g
-
-    Para comprobar la conectividad entre las computadoras se utilizaran los comandos _ping_ y _tracert_. 
+    - g) Para comprobar la conectividad entre las computadoras se utilizaran los comandos _ping_ y _tracert_. 
     
     El _ping_ envía paquetes al destino y espera la respuesta de este último. Sirve para comprobar si un dispositivo responde y está accesible en la red.
 
@@ -176,7 +138,8 @@ En este trabajo práctico se revisan conceptos básicos de ondas electromagnéti
 
     La razón por la cual no aparece el router en la ruta de destino, es porque ambas computadoras estan dentro de una red   LAN, por lo que no es necesario pasar por el router para llegar al otro equipo.
 
-    - h
+    - h)
+    
     IP Notebook externa: 192.168.0.103
     Gateway: 192.168.0.1
 
