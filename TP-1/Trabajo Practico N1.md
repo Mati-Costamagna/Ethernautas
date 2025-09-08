@@ -51,7 +51,7 @@ Longitud de Onda: El eje horizontal (Distancia) permite determinar la longitud d
 
 En resumen, el gráfico ilustra una onda electromagnética que pierde intensidad a medida que se propaga y tiene una longitud de onda definida.
 
-<p style="text-align:center"><img src='Imagenes/grafico1.png' alt='ip' ancho="50" alto="100">     
+<p style="text-align:center"><img src='Imagenes/graf.jpg' alt='ip' ancho="50" alto="100">     
     
 b) Para obtener el valor de la frecuencia, utilizamos la fórmula que relaciona la velocidad a la que viaja una onda con la longitud de dicha onda.
 La longitud de onda $\lambda$ es la distancia que recorre la onda hasta completar un ciclo, lo que en la imagen se indica como 60 [mm] 
