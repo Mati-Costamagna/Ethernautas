@@ -50,6 +50,7 @@ Intensidad y Atenuación: El eje vertical (Intensidad) representa la amplitud de
 Longitud de Onda: El eje horizontal (Distancia) permite determinar la longitud de onda (λ), que es la distancia de un ciclo completo de la onda. Teniendo en cuenta los puntos de 60 mm y 120 mm, la longitud de onda es de 60 mm.
 
 En resumen, el gráfico ilustra una onda electromagnética que pierde intensidad a medida que se propaga y tiene una longitud de onda definida.
+
 <p style="text-align:center"><img src='Imagenes/grafico1.png' alt='ip' ancho="50" alto="100">     
     
 b) Para obtener el valor de la frecuencia, utilizamos la fórmula que relaciona la velocidad a la que viaja una onda con la longitud de dicha onda.
@@ -105,14 +106,12 @@ La técnica de modulación con mejores prestaciones es la PSK, la comparación e
 
 ### Punto 4
 
-a) La frecuencia a la que opera el router es 2.4 [GHz], la cual está incluida en la banda de Frecuencias Ultra Altas (Ultra High Frequency o UHF) que abarca desde los 300 [MHz] hasta los 3 [GHz]
-
 b) Configuracion del Router:
 
 <p style="text-align:center"><img src='Imagenes/router1.png' alt='ip' ancho="50" alto="100">
 <p style="text-align:center"><img src='Imagenes/router2.png' alt='ip' ancho="50" alto="100">
 
-c) 
+c) La frecuencia a la que opera el router es 2.412 [GHz], la cual está incluida en la banda de Frecuencias Ultra Altas (Ultra High Frequency o UHF) que abarca desde los 300 [MHz] hasta los 3 [GHz]
 
 d) Conexion computadora-router:
 <p style="text-align:center"><img src='Imagenes/image1.png' alt='ip' ancho="50" alto="100">
