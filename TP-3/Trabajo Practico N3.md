@@ -56,3 +56,41 @@ _Facundo Oliva Cuneo_
 | Modulación             | 256-QAM              | 1024-QAM             | 4096-QAM              |
 | Sistema de Seguridad   | WPA2                 | WPA3                 | WPA3      |
   
+- 2
+
+    a) – Tipos de transmisión en Fibra Óptica
+
+    En la figura se ilustran dos tipos de transmisión:
+
+    #### 1. Fibra Monomodo (izquierda)
+    - La luz viaja en un único camino recto por el núcleo.  
+    - Núcleo muy delgado (≈ 8–10 µm).  
+    - Permite grandes distancias (decenas o cientos de km) con baja atenuación.  
+    - Gran ancho de banda y velocidad de transmisión.  
+    - Más costosa de implementar (requiere láseres precisos y conectores delicados).
+
+    #### 2. Fibra Multimodo (derecha)
+    - La luz se propaga en múltiples trayectorias (rebotes en el núcleo).  
+    - Núcleo más ancho (≈ 50–62,5 µm).  
+    - Más económica y sencilla de instalar (usa LEDs como fuente de luz).  
+    - Adecuada para distancias cortas (hasta algunos km).  
+    - Presenta dispersión modal que limita velocidad y alcance.
+
+    b) Ley de Snell y su relación con la Fibra Óptica  
+
+        La **Ley de Snell** establece la relación entre los ángulos de incidencia y refracción de un rayo de luz cuando pasa de un medio a otro con distinto índice de refracción. Su expresión matemática es:  
+
+        \[
+        n_1 \cdot \sin(\theta_1) = n_2 \cdot \sin(\theta_2)
+        \]
+
+        donde:  
+        - \(n_1\) y \(n_2\) son los índices de refracción de los medios,  
+        - \(\theta_1\) es el ángulo de incidencia,  
+        - \(\theta_2\) es el ángulo de refracción.  
+
+        En el caso de la **fibra óptica**, esta ley explica el fenómeno de la **reflexión interna total**, que ocurre cuando la luz pasa del núcleo (con mayor índice de refracción) al revestimiento (con menor índice de refracción) en un ángulo mayor al **ángulo crítico**. Esto asegura que la señal se mantenga confinada dentro del núcleo y se propague a lo largo de la fibra.  
+
+        La relación con los **modos de transmisión** es la siguiente:  
+        - En **fibra monomodo**, el núcleo es muy pequeño y solo se permite un camino de propagación, minimizando la dispersión.  
+        - En **fibra multimodo**, el núcleo es mayor y la luz puede reflejarse en múltiples trayectorias, lo que genera dispersión modal y limita la distancia máxima de transmisión.  
