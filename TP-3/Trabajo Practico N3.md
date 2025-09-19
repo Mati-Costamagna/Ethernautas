@@ -111,7 +111,9 @@ a)
 | Z-Wave    | Sí (recientemente)         | Z-Wave Alliance, desde 2020 estándar ITU-T G.9959                               |
 
 El 3GPP (3rd Generation Partnership Project) es el organismo que define los estándares de telecomunicaciones móviles (2G, 3G, 4G, 5G y ahora 6G).
-    
+
+b) <p style="text-align:center"><img src='Archivos/Tabla.png' alt='ip' ancho="50" alto="100">
+
 c)
 | Característica                  | UTP                           | Fibra Óptica                         | Wi-Fi 802.11be (Wi-Fi 7)                 | Bluetooth 5.4                 | 5G                                |
 |---------------------------------|-------------------------------|--------------------------------------|------------------------------------------|--------------------------------|-----------------------------------|
