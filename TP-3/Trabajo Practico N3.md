@@ -35,7 +35,11 @@ El estándar IEEE 802.3, conocido comúnmente como Ethernet, fue publicado en 19
 
 Por otro lado, el estándar IEEE 802.11, publicado en 1997, corresponde a las redes de área local inalámbricas, conocidas como Wi-Fi. Este estándar define también la capa física y la subcapa MAC, pero orientadas a la transmisión por medios inalámbricos utilizando radiofrecuencia. Desde su primera versión, con velocidades modestas (2 Mbps), ha ido evolucionando en distintas versiones como 802.11a/b/g/n/ac/ax hasta la más reciente 802.11be, alcanzando velocidades del orden de los gigabits por segundo. Su campo de aplicación se centra en las redes WLAN, brindando movilidad, facilidad de despliegue y conectividad en entornos donde no es posible o no resulta conveniente el uso de cableado físico.
     
-b)
+b) Para poder determinar el protocolo usado por las redes abiertas disponibles en la Facultado, nos conectamos a la red unc-libre. Dentro de su configuracion, pudimos obtener la informacion de que el protocolo que utiliza es el 802.11ac. El protocolo 802.11ac, también conocido como Wi-Fi 5, es un estándar de redes inalámbricas definido por el IEEE para mejorar la velocidad de transmisión de datos en la banda de 5 GHz.
+Para obtener este dato, utilizamos las configuraciones de WiFi de Windows de la computadora de uno de los integrantes del grupo, alli obtuvimos la siguiente informacion:
+
+<p style="text-align:center"><img src='Archivos/Protocolo.png' alt='ip' ancho="50" alto="100">
+
 
 c) Cuando una red Wi-Fi opera con un determinado protocolo (por ejemplo, 802.11ax – Wi-Fi 6) y un dispositivo posee una placa de red inalámbrica (NIC) más antigua que no soporta dicho protocolo, pueden ocurrir dos situaciones:
 
