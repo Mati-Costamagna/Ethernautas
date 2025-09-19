@@ -124,11 +124,11 @@ c)
 ---
 ### Punto 4
 
-El estado del arte (state of the art) es la descripción de las técnicas, tecnologías y resultados más avanzados y recientes en un área determinada. En nuestro caso, hablaremos de las soluciones actuales existentes para ofrecer Internet a aeronaves, qué limitaciones presentan y qué líneas de investigación o despliegue están dominando el mercado.
+El estado del arte en Comunicaciones de Datos es la recopilación y análisis de las tecnologías más recientes y avanzadas que permiten la transmisión de información digital, abarcando desde protocolos de red y arquitecturas, hasta infraestructuras físicas (fibra, satélite, 5G/6G, IoT, etc.), evaluando su nivel de madurez, limitaciones y tendencias futuras.
 
 a) La conectividad a internet en los aviones se logra principalmente mediante dos tecnologías principales: la conexión vía satélite y la conexión aire-tierra (ATG). 
 
-La tecnología de satélite utiliza antenas montadas en la parte superior del avión que se conectan a una red de satélites en órbita, ya sea geosíncrona o de baja órbita, que a su vez se enlazan con estaciones terrestres para acceder a Internet. Este sistema permite una cobertura global y es especialmente útil para vuelos sobre grandes extensiones de agua donde no hay cobertura terrestre. Las tecnologías satelitales incluyen bandas Ku y Ka, que ofrecen velocidades de hasta 70 Mbps, aunque la velocidad real depende del número de usuarios conectados.
+La tecnología de satélite utiliza antenas en la parte superior que se conectan a una red de satélites en órbita, que a su vez se enlazan con estaciones terrestres para acceder a Internet. Este sistema permite una cobertura global y es especialmente útil para vuelos sobre grandes extensiones de agua donde no hay cobertura terrestre. 
 
 Por otro lado, la tecnología aire-tierra (ATG) utiliza antenas en la parte inferior del avión que se conectan a torres de telefonía móvil en tierra, permitiendo acceso a Internet mientras el avión está sobre tierra firme.
 Aunque esta opción es menos costosa para las aerolíneas, su cobertura está limitada a zonas con infraestructura terrestre.
@@ -136,16 +136,13 @@ La calidad de la señal puede verse afectada al sobrevolar grandes extensiones d
 
 b) [Adaptive Beam Steering for Next-Generation Ku-Band Antennas on Commercial Aircraft](https://pmc.ncbi.nlm.nih.gov/articles/PMC11435494/)
 
-Este artículo investiga una nueva técnica para mejorar la estabilidad de la conexión a internet en aviones que usan la banda Ku. La investigación propone un algoritmo para que la antena de la aeronave ajuste automáticamente la dirección de su haz, siguiendo al satélite incluso cuando el avión se mueve. A diferencia de las antenas mecánicas tradicionales, esta tecnología usa un arreglo de antenas en fase (phased array) que direcciona el haz electrónicamente. El estudio muestra que este sistema reduce la pérdida de señal y mejora la velocidad de datos en un 30% en comparación con los métodos actuales, lo que resulta en una experiencia más estable para los pasajeros.
+Este artículo investiga una nueva técnica para mejorar la estabilidad de la conexión a internet en aviones que usan la banda Ku. La investigación propone un algoritmo para que la antena de la aeronave ajuste automáticamente la dirección de su haz, siguiendo al satélite incluso cuando el avión se mueve. 
 
 c) 
+El contenido como películas, series o música se almacena en un servidor de red local a bordo del avión. Este servidor está conectado a la red Wi-Fi del avión, a la que se conectan los dispositivos de los pasajeros. 
 
-Contenido a bordo:
-El contenido como películas, series o música se almacena en un servidor de red local a bordo del avión. Este servidor está conectado a la red Wi-Fi del avión, a la que se conectan los dispositivos de los pasajeros. .
+Cuando un pasajero decide ver una película, su dispositivo envía una solicitud al servidor local. El servidor responde transmitiendo el contenido de la película a través de la red Wi-Fi interna. Este proceso no consume ancho de banda satelital porque el tráfico no sale del avión.
 
-Cuando un pasajero decide ver una película, su dispositivo envía una solicitud al servidor local. El servidor responde transmitiendo el contenido de la película a través de la red Wi-Fi interna. Este proceso no consume ancho de banda satelital porque el tráfico no sale del avión. Es similar a ver un archivo multimedia almacenado en la computadora personal de uno.
-
-Tráfico de internet
 El tráfico de internet, como enviar un correo electrónico o navegar por la web, requiere una conexión externa. Esta conexión se establece a través de una antena en el exterior del avión que se comunica con una red de satélites. A su vez, los satélites se conectan a estaciones terrestres que dirigen el tráfico a internet.
 
 Cuando un pasajero quiere enviar un correo, su dispositivo envía la solicitud a través de la red Wi-Fi del avión, que luego se redirige a través de la antena satelital. Este proceso sí consume ancho de banda satelital, el cual es limitado y costoso.
@@ -154,4 +151,4 @@ El sistema de gestión de la red del avión está diseñado para diferenciar y p
 
 El tráfico de entretenimiento a bordo se identifica como tráfico local y se maneja dentro de la red del avión, sin pasar por la conexión satelital. Esto garantiza que las películas y series se carguen rápidamente y con buena calidad, ya que no dependen de la velocidad del internet.
 
-El tráfico de internet se identifica y se dirige hacia la antena satelital. Para optimizar el uso del ancho de banda, se pueden aplicar reglas que den prioridad a ciertos tipos de datos (como correos o mensajes de texto) sobre otros (como la descarga de archivos pesados o streaming de video en alta definición desde internet). A menudo, las aerolíneas ofrecen diferentes planes de pago según la cantidad de datos que se desea usar.
+El tráfico de internet se identifica y se dirige hacia la antena satelital. Para optimizar el uso del ancho de banda, se pueden aplicar reglas que den prioridad a ciertos tipos de datos (como correos o mensajes de texto) sobre otros.
