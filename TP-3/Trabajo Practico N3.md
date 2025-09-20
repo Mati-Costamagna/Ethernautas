@@ -49,8 +49,7 @@ c) Cuando una red Wi-Fi opera con un determinado protocolo (por ejemplo, 802.11a
 
 Seria normal esperar que la red se degrade a la versión común más baja soportada, afectando el rendimiento, la seguridad y la experiencia de usuario, pero manteniendo la conectividad.
 
-d) La versión del protocolo Wi-Fi (802.11), define la velocidad y el alcance de la red, pero no determina directamente su seguridad. La seguridad depende de los protocolos de cifrado que se implementen sobre ese estándar, como WEP, WPA, WPA2 o WPA3. La red _unc-libre_ es una red abierta, por lo que no implementa un protocolo de seguridad.
-No hay una relación de dependencia directa entre los protocolos de seguridad de 802.11ac y 802.11n. Ambos estándares de Wi-Fi pueden usar los mismos protocolos de seguridad.
+d) Los protocolos Wi-Fi 802.11ac y 802.11n, su predecesor, son compatibles con los principales protocolos de seguridad existentes: WEP, WPA, WPA2 y WPA3. Sin embargo, la seguridad de una red no depende de si es 802.11n o 802.11ac, sino del protocolo de cifrado que se elija en la configuración del router. La red _unc-libre_ es una red abierta, por lo que no implementa un protocolo de seguridad.
     
 e) 
 
