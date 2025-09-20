@@ -118,7 +118,9 @@ a)
 
 El 3GPP (3rd Generation Partnership Project) es el organismo que define los estándares de telecomunicaciones móviles (2G, 3G, 4G, 5G y ahora 6G).
 
-b) <p style="text-align:center"><img src='Archivos/Tabla.png' alt='ip' ancho="50" alto="100">
+b) En la tabla se muestran los rangos de valores tanto para la tasa de transmision como para el alcance de cada uno de los protocolos. El punto en el centro indica su valor promedio.
+
+<p style="text-align:center"><img src='Archivos/Tabla.png' alt='ip' ancho="50" alto="100">
 
 c)
 | Característica                  | UTP                           | Fibra Óptica                         | Wi-Fi 802.11be (Wi-Fi 7)                 | Bluetooth 5.4                 | 5G                                |
