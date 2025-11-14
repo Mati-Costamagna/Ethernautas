@@ -1,0 +1,8171 @@
+[
+  {
+    "timestamp": "2025-11-14 19:17:45",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 66.23,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:45",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.72,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:46",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.75,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:47",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 30.22,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:47",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.91,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:48",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.56,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:49",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 37.9,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:49",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.71,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:50",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.88,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:51",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 43.53,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:51",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.64,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:52",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.14,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:53",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 53.07,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:53",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.43,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:54",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.85,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:55",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 68.71,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:55",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.26,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:56",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.73,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:57",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 58.85,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:57",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.79,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:58",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.68,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:59",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 62.67,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:17:59",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.01,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:18:00",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.49,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:18:01",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 41.36,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:18:01",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.39,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:18:02",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.18,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:18:03",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 58.43,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:18:03",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.97,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:18:04",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.61,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:18:05",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 30.71,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:18:05",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.25,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:18:06",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.17,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:15",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 52.42,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:15",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.26,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:16",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.4,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:17",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 39.95,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:17",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.49,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:18",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.03,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:19",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 31.57,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:19",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.09,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:20",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.23,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:21",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 59.18,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:21",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.16,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:22",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.15,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:23",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 36.19,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:23",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.84,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:24",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.72,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:25",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 35.01,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:25",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.49,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:26",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.73,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:27",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 56.93,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:27",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.91,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:28",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.42,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:29",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 63.37,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:29",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.54,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:30",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.35,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:31",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 55.91,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:31",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.97,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:32",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.87,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:33",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 53.93,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:33",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.6,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:34",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.88,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:35",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 54.49,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:35",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.67,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:36",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.84,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:37",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 43.02,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:37",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.05,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:38",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.96,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:39",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 56.27,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:40",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.21,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:40",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.92,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:41",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 68.88,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:41",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.65,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:42",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.91,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:43",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 56.79,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:43",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.98,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:44",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.23,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:45",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 63.26,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:45",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.37,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:46",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.13,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:47",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 33.44,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:47",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.74,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:48",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.64,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:49",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 55.91,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:49",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.38,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:50",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.29,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:51",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 33.59,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:51",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.86,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:52",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.1,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:53",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 55.08,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:53",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.67,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:54",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.44,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:55",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 53.05,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:55",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.23,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:56",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.35,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:57",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 66.51,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:57",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.92,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:58",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.83,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:59",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 67.05,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:19:59",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.22,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:00",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.72,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:01",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 66.9,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:01",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.07,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:02",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.88,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:03",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 61.45,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:03",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.29,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:04",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.52,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:05",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 35.71,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:05",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.09,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:06",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.92,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:07",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 31.49,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:07",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.38,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:08",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.81,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:09",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 49.21,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:09",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.07,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:10",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.98,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:11",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 63.82,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:11",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.69,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:12",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.36,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:13",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 37.63,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:13",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.65,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:14",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.77,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:15",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 51.29,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:15",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.4,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:16",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.25,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:17",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 60.68,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:17",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.51,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:18",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.73,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:19",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 31.73,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:20",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.59,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:20",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.18,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:21",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 64.12,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:22",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.06,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:22",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.78,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:23",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 64.78,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:24",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.95,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:24",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.51,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:25",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 66.63,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:26",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.51,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:26",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.65,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:27",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 30.1,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:28",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.62,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:28",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.62,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:29",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 41.29,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:30",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.51,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:30",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.9,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:31",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 69.97,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:32",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.59,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:32",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.16,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:33",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 41.11,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:34",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.13,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:34",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.91,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:35",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 30.55,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:36",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.78,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:36",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.61,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:37",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 66.64,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:38",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.46,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:38",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.29,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:39",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 62.65,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:40",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.38,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:40",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.87,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:41",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 45.06,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:42",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.65,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:42",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.15,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:43",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 42.05,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:44",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.81,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:44",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.71,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:45",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 39.25,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:46",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.3,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:46",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.81,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:47",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 68.76,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:48",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.67,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:48",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.84,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:49",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 68.24,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:50",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.37,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:50",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.55,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:51",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 58.9,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:52",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.09,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:52",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.97,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:53",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 32.53,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:54",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.07,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:54",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.28,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:55",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 45.7,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:56",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.0,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:56",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.52,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:57",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 59.87,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:58",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.01,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:58",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.77,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:20:59",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 54.09,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:00",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.45,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:00",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.7,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:01",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 50.57,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:02",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.17,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:02",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.83,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:03",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 52.38,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:04",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.27,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:04",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.68,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:05",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 53.81,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:06",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.15,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:06",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.68,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:07",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 41.15,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:08",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.02,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:08",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.73,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:09",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 40.39,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:10",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.2,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:10",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.08,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:11",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 64.51,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:12",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.52,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:12",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.64,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:13",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 42.12,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:14",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.37,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:14",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.18,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:15",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 63.57,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:16",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.34,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:16",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.42,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:17",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 55.3,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:18",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.58,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:18",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.24,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:19",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 58.43,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:20",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.58,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:20",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.9,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:21",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 30.98,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:22",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.24,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:22",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.42,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:23",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 52.34,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:24",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.86,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:24",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.09,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:25",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 30.77,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:26",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.17,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:26",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.5,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:27",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 57.36,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:28",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.94,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:28",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.53,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:29",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 52.13,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:30",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.07,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:30",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.57,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:31",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 56.22,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:32",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.52,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:32",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.24,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:33",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 57.37,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:34",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.46,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:34",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.02,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:35",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 39.31,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:36",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.77,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:36",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.13,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:37",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 58.13,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:38",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.47,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:38",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.82,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:39",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 46.05,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:40",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.35,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:40",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.33,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:41",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 67.34,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:42",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.55,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:42",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.77,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:43",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 35.88,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:44",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.66,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:44",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.08,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:45",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 33.03,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:46",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.9,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:46",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.83,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:47",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 61.6,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:48",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.74,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:48",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.48,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:49",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 52.49,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:50",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.07,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:50",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.19,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:51",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 68.11,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:52",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.64,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:52",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.6,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:53",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 34.07,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:54",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.07,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:54",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.9,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:55",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 58.78,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:56",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.33,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:56",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.56,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:57",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 43.28,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:58",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.21,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:58",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.94,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:21:59",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 56.65,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:00",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.58,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:00",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.61,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:01",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 48.27,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:02",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.27,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:02",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.29,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:03",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 32.61,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:04",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.79,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:04",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.33,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:05",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 55.02,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:06",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.05,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:06",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.92,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:07",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 34.86,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:08",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.43,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:08",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.28,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:09",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 58.13,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:10",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.43,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:10",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.63,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:11",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 52.28,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:12",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.54,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:12",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.03,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:13",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 60.89,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:14",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.77,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:14",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.45,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:15",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 52.12,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:16",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.86,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:16",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.05,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:17",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 40.69,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:18",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.88,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:18",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.45,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:19",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 69.75,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:20",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.41,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:20",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.26,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:21",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 42.56,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:22",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.17,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:22",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.42,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:23",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 55.16,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:24",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.18,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:24",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.26,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:25",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 39.36,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:26",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.4,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:26",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.9,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:27",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 36.54,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:28",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.75,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:28",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.51,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:29",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 41.28,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:30",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.69,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:30",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.24,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:31",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 58.87,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:32",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.94,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:32",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.81,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:33",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 52.97,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:34",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.63,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:34",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.31,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:35",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 53.47,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:36",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.95,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:36",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.07,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:37",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 39.78,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:38",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.71,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:38",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.28,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:39",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 31.46,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:40",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.29,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:40",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.78,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:41",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 64.08,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:42",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.18,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:42",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.93,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:43",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 51.72,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:44",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.66,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:44",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.65,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:45",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 61.9,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:46",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.98,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:46",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.03,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:47",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 55.61,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:48",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.8,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:48",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.7,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:49",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 58.69,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:50",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.73,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:50",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.58,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:51",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 50.24,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:52",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.86,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:52",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.84,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:53",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 57.79,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:54",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.67,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:54",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.07,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:55",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 51.72,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:56",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.04,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:56",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.83,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:57",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 66.9,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:58",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.19,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:58",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.5,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:22:59",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 64.65,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:00",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.88,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:00",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.97,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:01",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 47.99,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:02",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.45,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:02",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.83,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:03",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 42.98,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:04",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.9,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:04",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.5,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:05",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 67.91,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:06",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.51,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:06",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.22,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:07",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 54.66,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:08",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.62,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:08",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.5,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:09",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 54.96,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:10",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.96,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:10",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.78,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:11",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 55.28,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:12",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.88,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:12",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.18,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:13",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 43.93,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:14",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.57,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:14",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.09,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:15",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 66.15,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:16",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.39,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:16",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.21,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:17",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 66.98,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:18",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.73,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:18",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.85,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:19",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 41.74,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:20",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.58,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:20",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.95,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:22",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.33,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:23",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.26,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:23",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 62.96,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:24",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 56.2,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:24",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.71,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:24",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.37,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:25",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 69.4,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:26",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.99,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:26",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.65,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:27",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 48.36,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:28",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.8,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:28",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.57,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:29",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 34.14,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:30",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.93,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:30",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.78,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:31",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 36.6,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:32",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.93,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:32",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.63,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:33",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 55.74,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:34",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.86,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:34",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.35,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:35",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 41.95,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:36",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.89,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:36",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.74,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:37",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 60.0,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:38",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.02,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:38",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.52,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:39",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 51.8,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:40",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.03,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:40",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.26,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:41",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 32.55,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:42",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.85,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:42",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.02,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:43",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 31.58,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:44",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.18,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:44",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.58,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:45",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 67.03,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:46",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.97,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:46",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.64,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:47",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 31.38,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:48",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.09,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:48",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.85,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:49",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 32.96,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:50",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.15,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:50",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.02,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:51",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 37.67,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:52",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.29,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:52",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.0,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:53",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 50.58,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:54",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.13,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:54",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.69,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:55",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 60.88,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:56",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.89,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:56",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.92,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:57",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 52.13,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:58",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.13,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:58",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.44,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:23:59",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 52.99,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:00",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.15,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:00",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.45,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:01",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 37.83,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:02",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.84,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:02",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.94,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:03",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 32.9,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:04",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.49,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:04",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.37,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:05",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 65.36,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:06",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.16,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:06",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.59,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:07",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 41.48,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:08",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.92,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:08",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.58,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:09",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 58.58,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:10",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.46,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:10",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.17,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:11",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 37.93,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:12",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.54,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:12",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.8,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:13",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 38.29,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:14",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.61,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:14",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.57,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:15",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 38.37,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:16",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.28,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:16",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.91,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:17",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 61.24,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:18",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.33,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:18",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.55,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:19",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 50.42,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:20",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.71,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:20",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.37,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:21",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 58.26,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:22",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.98,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:22",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.23,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:23",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 43.25,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:24",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.66,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:24",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.48,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:25",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 57.4,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:26",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.2,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:26",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.12,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:27",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 42.22,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:28",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.9,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:28",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.52,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:29",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 67.65,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:30",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.73,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:30",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.24,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:31",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 46.82,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:32",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.96,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:32",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.68,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:33",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 42.68,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:34",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.24,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:34",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.55,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:35",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 35.44,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:36",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.08,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:36",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.26,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:37",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 52.44,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:38",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.64,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:38",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.93,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:39",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 41.15,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:40",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.82,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:40",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.29,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:41",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 54.5,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:42",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.52,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:42",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.6,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:43",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 52.45,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:44",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.33,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:44",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.98,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:45",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 46.41,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:46",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.54,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:46",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.78,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:47",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 55.47,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:48",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.23,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:48",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.05,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:49",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 66.9,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:50",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.74,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:50",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.97,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:51",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 58.47,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:52",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.35,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:52",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.58,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:53",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 31.6,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:54",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.17,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:54",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.04,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:55",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 64.21,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:56",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.6,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:56",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.0,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:58",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 45.02,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:58",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.31,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:24:58",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.42,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:00",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 50.1,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:00",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.95,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:00",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.49,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:02",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 47.83,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:02",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.61,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:02",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.62,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:04",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 45.32,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:04",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.17,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:04",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.53,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:06",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 31.83,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:06",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.54,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:06",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.01,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:08",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 37.3,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:08",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.26,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:08",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.28,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:10",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 32.23,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:10",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.22,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:10",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.3,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:12",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 41.57,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:12",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.89,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:12",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.7,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:14",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 67.76,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:14",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.48,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:14",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.86,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:16",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 65.66,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:16",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.48,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:16",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.23,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:18",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 30.29,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:18",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.66,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:18",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.2,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:20",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 53.61,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:20",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.14,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:20",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.15,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:22",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 35.62,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:22",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.4,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:22",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.85,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:24",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 44.85,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:24",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.93,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:24",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.86,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:26",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 58.84,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:26",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.15,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:26",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.04,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:28",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 54.55,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:28",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.8,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:28",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.9,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:30",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 42.85,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:30",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.33,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:30",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.71,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:32",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 55.95,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:32",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.37,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:32",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.88,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:34",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 47.52,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:34",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.51,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:34",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.46,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:36",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 33.46,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:36",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.11,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:36",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.55,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:38",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 32.39,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:38",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.13,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:38",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.28,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:40",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 53.62,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:40",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.2,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:40",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.51,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:42",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 66.46,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:42",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.88,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:42",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.23,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:44",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 31.38,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:44",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.8,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:44",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.61,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:46",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 57.48,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:46",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.42,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:46",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.56,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:48",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 64.36,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:48",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.17,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:48",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.82,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:50",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 52.22,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:50",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.37,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:50",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.98,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:52",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 35.32,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:52",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.41,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:52",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.76,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:54",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 35.08,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:54",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.46,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:54",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.38,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:56",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 56.19,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:56",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.02,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:56",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.51,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:58",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 62.02,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:58",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.24,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:25:58",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.59,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:00",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 68.17,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:00",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.79,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:00",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.94,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:02",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 45.56,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:02",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.75,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:02",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.67,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:04",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 58.65,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:04",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.4,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:04",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.67,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:06",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 61.06,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:06",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.54,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:06",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.46,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:08",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 37.58,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:08",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.32,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:08",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.46,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:10",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 58.32,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:10",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.52,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:10",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.69,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:12",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 69.2,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:12",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.22,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:12",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.78,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:14",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 36.43,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:14",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.63,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:14",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.79,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:16",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 38.29,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:16",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.03,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:16",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.6,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:18",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 35.14,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:18",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.2,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:18",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.76,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:20",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 56.81,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:20",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.56,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:20",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.58,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:22",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 36.15,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:22",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.64,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:22",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.95,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:24",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 52.32,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:24",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.87,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:24",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.27,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:26",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 46.05,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:26",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.07,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:26",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.91,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:28",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 40.29,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:28",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.55,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:28",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.23,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:30",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 61.04,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:30",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.95,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:30",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.74,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:32",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 52.91,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:32",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.72,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:32",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.34,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:34",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 60.55,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:34",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.69,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:34",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.76,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:36",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 69.62,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:36",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.29,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:36",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.03,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:38",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 33.78,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:38",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.76,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:38",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.94,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:40",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 69.17,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:40",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.31,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:40",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.38,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:42",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 34.01,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:42",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.78,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:42",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.59,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:44",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 60.72,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:44",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.6,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:44",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.06,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:46",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 63.58,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:46",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.47,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:46",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.71,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:48",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 30.03,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:48",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.7,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:48",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.02,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:50",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 56.72,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:50",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.52,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:50",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.49,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:52",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 52.45,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:52",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.03,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:52",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.71,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:54",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 58.08,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:54",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.55,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:54",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.13,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:56",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 38.33,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:56",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.46,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:56",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.32,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:58",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 36.24,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:58",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.07,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:26:58",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.31,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:00",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 56.11,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:00",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.91,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:00",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.6,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:02",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 54.96,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:02",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.89,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:02",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.26,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:04",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 63.89,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:04",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.13,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:04",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.95,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:06",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 67.03,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:06",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.0,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:06",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.38,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:08",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 47.72,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:08",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.35,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:08",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.1,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:10",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 60.64,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:10",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.78,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:10",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.72,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:12",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 52.71,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:12",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.25,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:12",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.27,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:14",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 66.19,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:14",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.01,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:14",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.12,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:16",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 65.62,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:16",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.59,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:16",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.87,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:18",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 54.5,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:18",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.64,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:18",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.59,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:20",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 48.96,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:20",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.16,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:20",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.62,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:22",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 58.87,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:22",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.42,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:22",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.88,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:24",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 59.26,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:24",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.8,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:24",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.15,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:26",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 56.4,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:26",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.58,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:26",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.34,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:28",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 62.43,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:28",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.8,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:28",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.64,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:30",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 40.05,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:30",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.3,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:30",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.92,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:32",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 40.5,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:32",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.69,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:32",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.44,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:34",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 68.85,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:34",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.95,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:34",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.28,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:36",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 32.42,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:36",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.44,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:36",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.35,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:38",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 56.0,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:38",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.08,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:38",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.47,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:40",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 33.49,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:40",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.72,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:40",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.21,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:42",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 64.53,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:42",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.76,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:42",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.87,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:44",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 43.78,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:44",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.8,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:44",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.06,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:46",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 47.38,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:46",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.76,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:46",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.14,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:48",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 66.28,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:48",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.14,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:48",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.44,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:50",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 45.53,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:50",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.7,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:50",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.54,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:52",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 48.23,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:52",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.99,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:52",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.52,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:54",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 55.96,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:54",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.12,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:54",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.42,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:56",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 38.19,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:56",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.93,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:56",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.34,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:58",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 52.63,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:58",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.07,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:27:58",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.58,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:00",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 31.29,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:00",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.63,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:00",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.88,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:02",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 39.66,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:02",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.47,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:02",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.56,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:04",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 62.28,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:04",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.62,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:04",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.53,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:06",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 51.71,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:06",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.02,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:06",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.49,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:08",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 37.83,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:08",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.42,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:08",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.44,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:10",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 32.55,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:10",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.53,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:10",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.19,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:12",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 30.87,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:12",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.23,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:12",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.56,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:14",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 61.09,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:14",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.4,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:14",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.84,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:16",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 63.86,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:16",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.86,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:16",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.57,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:18",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 56.06,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:18",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.89,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:18",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.22,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:20",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 39.06,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:20",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.94,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:20",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.7,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:22",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 30.89,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:22",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.61,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:22",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.36,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:24",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 63.64,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:24",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.67,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:24",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.66,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:26",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 64.14,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:26",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.8,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:26",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.93,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:28",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 41.87,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:28",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.71,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:28",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.76,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:30",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 40.5,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:30",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.77,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:30",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.16,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:32",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 62.84,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:32",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.38,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:32",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.46,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:34",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 55.53,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:34",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.89,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:34",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.47,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:36",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 32.89,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:36",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.83,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:36",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.96,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:38",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 53.59,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:38",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.74,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:38",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.46,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:40",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 56.68,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:40",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.06,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:40",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.82,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:42",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 64.79,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:42",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.35,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:42",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.84,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:44",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 41.44,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:44",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.13,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:44",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.52,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:46",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 47.5,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:46",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.4,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:46",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.37,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:48",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 44.99,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:48",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.11,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:48",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.11,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:50",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 43.19,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:50",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.66,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:50",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.9,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:52",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 54.81,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:52",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.13,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:52",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.92,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:54",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 39.95,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:54",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.58,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:54",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.46,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:56",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 67.87,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:56",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.28,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:56",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.74,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:58",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 30.95,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:58",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.53,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:28:58",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.67,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:00",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 37.89,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:00",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.84,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:00",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.16,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:02",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 60.98,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:02",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.89,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:02",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.07,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:04",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 50.87,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:04",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.71,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:04",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.69,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:06",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 53.75,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:06",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.01,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:06",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.56,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:08",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 61.55,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:08",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.59,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:08",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.85,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:10",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 44.58,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:10",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.49,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:10",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.02,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:12",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 65.57,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:12",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.37,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:12",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.28,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:14",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 55.39,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:14",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.22,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:14",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.84,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:16",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 52.72,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:16",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.43,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:16",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.62,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:18",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 60.27,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:18",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.45,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:18",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.14,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:20",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 39.87,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:20",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.97,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:20",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.56,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:22",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 61.29,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:22",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.77,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:22",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.75,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:24",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 59.67,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:24",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.99,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:24",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.65,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:26",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 51.74,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:26",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.33,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:26",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.22,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:28",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 69.13,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:28",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.94,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:28",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.52,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:30",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 59.04,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:30",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.28,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:30",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.18,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:32",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 45.72,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:32",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.22,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:32",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.22,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:34",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 53.01,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:34",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.22,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:34",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.66,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:36",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 51.5,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:36",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.57,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:36",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.83,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:38",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 41.17,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:38",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.75,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:38",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.66,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:40",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 37.11,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:40",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.07,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:40",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.35,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:42",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 56.55,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:42",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.94,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:42",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.76,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:44",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 44.24,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:44",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.93,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:44",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.3,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:46",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 46.7,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:46",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.83,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:46",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.02,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:48",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 60.13,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:48",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.7,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:48",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.13,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:50",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 48.22,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:50",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.8,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:50",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.74,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:52",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 46.4,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:52",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.21,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:52",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.92,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:54",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 51.16,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:54",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.27,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:54",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.7,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:56",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 55.8,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:56",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.89,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:56",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.18,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:58",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 45.2,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:58",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.81,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:29:58",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.37,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:00",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 44.98,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:00",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.89,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:00",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.03,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:02",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 32.08,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:02",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.29,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:02",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.23,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:04",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 34.28,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:04",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.83,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:04",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.92,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:06",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 42.14,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:06",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.46,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:06",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.95,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:08",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 40.02,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:08",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.4,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:08",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.24,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:10",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 42.95,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:10",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.72,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:10",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.51,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:12",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 62.68,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:12",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.32,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:12",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.31,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:14",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 66.42,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:14",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.95,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:14",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.04,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:16",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 65.74,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:16",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.07,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:16",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.09,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:18",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 49.92,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:18",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.97,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:18",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.95,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:20",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 69.78,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:20",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.92,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:20",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.14,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:22",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 57.27,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:22",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.81,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:22",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.79,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:24",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 47.08,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:24",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.37,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:24",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.09,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:26",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 57.75,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:26",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.19,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:26",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.53,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:28",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 51.45,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:28",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.63,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:28",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.35,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:30",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 38.8,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:30",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.82,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:30",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.48,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:32",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 34.92,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:32",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.54,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:32",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 24.83,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:34",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 35.36,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:34",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.48,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:34",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.78,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:36",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 41.99,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:36",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.58,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:36",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.15,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:38",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 62.16,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:38",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.92,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:38",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.84,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:40",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 35.84,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:40",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.92,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:40",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.04,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:42",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 59.8,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:42",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.91,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:42",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.9,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:44",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 64.75,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:44",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.96,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:44",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.59,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:46",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 30.44,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:46",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.29,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:46",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.51,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:48",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 57.21,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:48",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.96,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:48",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.38,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:50",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 39.2,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:50",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.95,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:50",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.35,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:52",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 38.2,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:52",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 25.52,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:52",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.55,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:54",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 33.42,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:54",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.56,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:54",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.76,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:56",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 51.29,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:56",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.29,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:56",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.55,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:58",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 36.62,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:58",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.49,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:30:58",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.14,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:00",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 32.97,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:00",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.96,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:00",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.39,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:02",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 34.87,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:02",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.78,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:02",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.09,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:04",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 45.29,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:04",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.8,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:04",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.76,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:06",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 48.6,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:06",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.22,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:06",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.6,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:08",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 33.67,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:08",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.13,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:08",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.55,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:10",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 40.25,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:10",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.44,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:10",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.11,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:12",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 36.28,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:12",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.74,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:12",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 18.27,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:14",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 32.62,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:14",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 27.88,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:14",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.59,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:16",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 54.39,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:16",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.02,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:16",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.05,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:18",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 36.5,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:18",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.02,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:18",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.87,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:20",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 64.96,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:20",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.07,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:20",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.67,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:22",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 62.79,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:22",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.78,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:22",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.84,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:24",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 31.16,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:24",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.25,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:24",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.56,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:26",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 57.26,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:26",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.45,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:26",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.29,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:28",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 64.92,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:28",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.46,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:28",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.55,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:30",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 59.73,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:30",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.79,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:30",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.01,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:32",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 42.73,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:32",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.36,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:32",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 26.1,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:34",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 35.68,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:34",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.45,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:34",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.63,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:36",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 42.61,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:36",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 21.17,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:36",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 20.91,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:38",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 34.04,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:38",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 19.95,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:38",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 23.71,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:40",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 58.31,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:40",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 25.63,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:40",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.98,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:42",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 67.17,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:42",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 26.47,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:42",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 24.75,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:44",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 69.31,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:44",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 23.99,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:44",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 21.17,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:46",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 42.11,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:46",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 18.75,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:46",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 19.66,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:48",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 47.86,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:48",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 20.41,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:48",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 22.43,
+    "topico": "lan/sala1/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:50",
+    "sala": "sala1",
+    "tipo_sensor": "hum",
+    "valor": 55.56,
+    "topico": "lan/sala1/sensor/hum"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:50",
+    "sala": "sala2",
+    "tipo_sensor": "temp",
+    "valor": 22.33,
+    "topico": "lan/sala2/sensor/temp"
+  },
+  {
+    "timestamp": "2025-11-14 19:31:50",
+    "sala": "sala1",
+    "tipo_sensor": "temp",
+    "valor": 27.8,
+    "topico": "lan/sala1/sensor/temp"
+  }
+]
