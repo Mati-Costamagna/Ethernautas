@@ -9,7 +9,7 @@ def on_connect(client, userdata, flags, rc, properties=None):
         client.subscribe("lan/deviceA/status", qos=1)
         print("Suscrito a: lan/deviceA/status")
     else:
-        print(f"Error de conexión. Código: {rc}")
+        print(f"Error de conexión. Codigo: {rc}")
 
 def on_message(client, userdata, msg):
     print(f"\n[MENSAJE RECIBIDO]")

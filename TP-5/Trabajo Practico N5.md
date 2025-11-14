@@ -101,10 +101,47 @@ Cliente central:
 
 ### Punto 5
 
+Terminal Gateway:
+![image](https://hackmd.io/_uploads/S1r1HQHxWx.png)
+
+Terminal Sensor Temperatura Sala 1:
+![image](https://hackmd.io/_uploads/SJ_5r7HxWx.png)
+
+Terminal Sensor Temperatura Sala 2:
+![image](https://hackmd.io/_uploads/BkJTrmBlWe.png)
+
+Terminal Sensor Humedad Sala 1:
+![image](https://hackmd.io/_uploads/SJk2r7Bg-l.png)
+
+Terminal Panel de control:
+![image](https://hackmd.io/_uploads/rJjGS7rl-l.png)
+
+Terminal Gateway funcinonando:
+![image](https://hackmd.io/_uploads/SkerSXrgZe.png)
+
+HiveMQ Cloud:
+![image](https://hackmd.io/_uploads/ry0ArXBx-l.png)
+
+Panel de control STOP:
+![image](https://hackmd.io/_uploads/ByQNUmHlZg.png)
+
+Sensor Temperatura 2 recibiendo el comando:
+![image](https://hackmd.io/_uploads/HJUHUmHlWx.png)
+Sensor Humedad recibiendo el comando:
+![image](https://hackmd.io/_uploads/H1tUU7Hgbe.png)
+Sensor Temperatura 1 recibiendo el comando:
+![image](https://hackmd.io/_uploads/B1OPUmHgZe.png)
+
+Captura del archivo CSV:
+![image](https://hackmd.io/_uploads/SyNiuXHgZe.png)
 
 
+e) Paquete:
+No. | Tiempo |	Fuente |	Destino	|Protocolo|	Longitud	|Info|
+|---|---|---|---|---|---|---|
+50|	0.220871|	192.168.1.41|	52.31.149.80|	TLSv1.2|	87|	Application Data|
 
-
+![image](https://hackmd.io/_uploads/Byzfp7re-e.png)
 
 ### Punto 6
 
