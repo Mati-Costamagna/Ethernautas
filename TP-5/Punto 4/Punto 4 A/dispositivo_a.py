@@ -1,4 +1,3 @@
-# dispositivo_a.py
 import paho.mqtt.client as mqtt
 import time
 import config
